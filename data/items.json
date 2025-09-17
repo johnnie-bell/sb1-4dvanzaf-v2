@@ -1,0 +1,27 @@
+[
+  { "id": "beach-umbrella-1", "name": "Parasols",             "category": "BEACH",   "pricePerDay": 286,  "imageUrl": "/products/parosols.jpg" },
+  { "id": "beach-chairs-2",   "name": "Beach Chairs",         "category": "BEACH",   "pricePerDay": 143,  "imageUrl": "/products/beach chairs.jpg" },
+  { "id": "beach-tent-1",     "name": "Beach Tent",           "category": "BEACH",   "pricePerDay": 286,  "imageUrl": "/products/beach tent.jpg" },
+  { "id": "sun-loungers-1",   "name": "Sun Loungers",         "category": "BEACH",   "pricePerDay": 286,  "imageUrl": "/products/sun loungers.jpg" },
+  { "id": "beach-trolley-1",  "name": "Beach Trolley",         "category": "BEACH",   "pricePerDay": 357,  "imageUrl": "/products/Beach Trolley.jpg" },
+  { "id": "cooler-box-1",     "name": "Cooler Box",           "category": "BEACH",   "pricePerDay": 71,   "imageUrl": "/products/Cooler Box.jpg" },
+
+  { "id": "surfboard-beginner","name": "Surf Boards",         "category": "SPORTS",  "pricePerDay": 1214, "imageUrl": "/products/surf boards.jpg" },
+  { "id": "paddle-boards-1",  "name": "Paddle Boards",        "category": "SPORTS",  "pricePerDay": 1714, "imageUrl": "/products/paddle boards.jpg" },
+  { "id": "kayak-single",     "name": "Inflatable Kayaks",    "category": "SPORTS",  "pricePerDay": 1714, "imageUrl": "/products/inflatable kayak.jpg" },
+  { "id": "bike-mountain",    "name": "Bikes",                "category": "SPORTS",  "pricePerDay": 1714, "imageUrl": "/products/bicycle.jpg",       "priceFrom": true },
+  { "id": "fishing-rods-1",   "name": "Fishing Rods",         "category": "SPORTS",  "pricePerDay": 286,  "imageUrl": "/products/fishing rods.jpg", "priceFrom": true },
+  { "id": "snorkel-set",      "name": "Snorkelling Sets",     "category": "SPORTS",  "pricePerDay": 286,  "imageUrl": "/products/snorkel set.jpg" },
+  { "id": "paddle-rackets-1", "name": "Paddle Rackets (pair)","category": "SPORTS",  "pricePerDay": 357,  "imageUrl": "/products/paddle rackets.jpg" },
+  { "id": "hiking-poles-1",   "name": "Hiking Poles",         "category": "SPORTS",  "pricePerDay": 214,  "imageUrl": "/products/hiking sticks.jpg" },
+
+  { "id": "baby-bath-1",      "name": "Baby Bath",            "category": "BABY",    "pricePerDay": 107,  "imageUrl": "/products/Baby Bath.jpg" },
+  { "id": "baby-bath-seat-1", "name": "Baby Bath Seat",       "category": "BABY",    "pricePerDay": 143,  "imageUrl": "/products/Baby Bath Seat.jpg" },
+  { "id": "activity-seat-1",  "name": "Activity Seat",        "category": "BABY",    "pricePerDay": 214,  "imageUrl": "/products/Baby Activity Seat.jpg" },
+  { "id": "baby-rocker-1",    "name": "Baby Rocker",          "category": "BABY",    "pricePerDay": 214,  "imageUrl": "/products/Baby Rocker.jpg" },
+  { "id": "floor-seat-1",     "name": "Floor Seat",           "category": "BABY",    "pricePerDay": 143,  "imageUrl": "/products/Baby Floor Seat.jpg" },
+  { "id": "step-stool-1",     "name": "Step Stool",           "category": "BABY",    "pricePerDay": 71,   "imageUrl": "/products/Step Stool.jpg" },
+
+  { "id": "walking-aids-1",   "name": "Walking Aids",         "category": "MOBILITY","pricePerDay": 357,  "imageUrl": "/products/walking aids.jpg", "priceFrom": true },
+  { "id": "mobility-scooter", "name": "Mobility Scooter",     "category": "MOBILITY","pricePerDay": 2143, "imageUrl": "/products/scooter.jpg" }
+]
