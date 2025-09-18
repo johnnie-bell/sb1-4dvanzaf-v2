@@ -33,7 +33,8 @@ export function Hero() {
       
       <div className="relative z-10 text-center max-w-4xl mx-auto px-4 md:px-6">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-          Rent Holiday Gear in a click
+          <span className="block">Can’t pack it?</span>
+  <span className="block">Rent it.</span>
         </h1>
 <p className="mt-2 text-xs md:text-sm text-gray-700/90 uppercase tracking-wide text-center">
   (Delivery &amp; Collection Service)
